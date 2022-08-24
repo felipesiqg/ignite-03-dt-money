@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-08-23T01:01:50.804Z"
+    },
+    {
+      "id": 3,
+      "description": "Manutenção de site",
+      "type": "income",
+      "category": "Recorrente",
+      "price": 200,
+      "createdAt": "2022-08-23T04:01:50.804Z"
+    },
+    {
+      "id": 4,
+      "description": "Compra de equipamentos",
+      "type": "oucome",
+      "category": "Investimento",
+      "price": 20000,
+      "createdAt": "2022-08-23T01:01:50.804Z"
+    },
+    {
+      "id": 5,
+      "description": "Combo: site + mídias sociais",
+      "type": "income",
+      "category": "Venda",
+      "price": 18500,
+      "createdAt": "2022-08-23T01:01:50.804Z"
     }
   ]
 }
